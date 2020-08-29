@@ -1,0 +1,21 @@
+{
+    "name": "paulo123araujo/middleware-lumen-auth",
+    "description": "Middlewares utils to use with Laravel/Lumen",
+    "type": "library",
+    "require": {
+        "php": "^7.4",
+        "laravel/lumen-framework": "^7.0",
+        "firebase/php-jwt": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Paulo Araújo",
+            "email": "paulofelipe_jau7654@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Middlewares\\": "src/"
+        }
+    }
+}
