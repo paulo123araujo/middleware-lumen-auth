@@ -1,6 +1,8 @@
 {
     "name": "paulo123araujo/middleware-lumen-auth",
     "description": "Middlewares utils to use with Laravel/Lumen",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "type": "library",
     "require": {
         "php": "^7.4",
