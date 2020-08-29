@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "ssh://git@github.com:paulo123araujo/middleware-lumen-auth.git"
+            "url": "ssh://git@github.com/paulo123araujo/middleware-lumen-auth.git"
         }
     ]
  ```
@@ -27,4 +27,3 @@
  ```
 
  - Copy the config/jwt.php to the Lumen project that you want to use the middlewares
- - 
